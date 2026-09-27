@@ -1,0 +1,8 @@
+[user]
+	name = gavinrpeterson11@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	edior = vim
+[pull]
+	rebase = true
